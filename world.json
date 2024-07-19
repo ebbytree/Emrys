@@ -1,0 +1,121 @@
+{
+  "name": "emrys",
+  "title": "Emrys",
+  "description": "",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "entity": "Item",
+      "label": "DDB Spells",
+      "name": "ddb-emrys-spells",
+      "package": "world",
+      "path": "packs/ddb-emrys-spells.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\ashle\\AppData\\Local\\FoundryVTT\\Data\\worlds\\emrys\\packs\\ddb-emrys-spells.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Items",
+      "name": "ddb-emrys-items",
+      "package": "world",
+      "path": "packs/ddb-emrys-items.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\ashle\\AppData\\Local\\FoundryVTT\\Data\\worlds\\emrys\\packs\\ddb-emrys-items.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Class Features",
+      "name": "ddb-emrys-class-features",
+      "package": "world",
+      "path": "packs/ddb-emrys-class-features.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\ashle\\AppData\\Local\\FoundryVTT\\Data\\worlds\\emrys\\packs\\ddb-emrys-class-features.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Classes",
+      "name": "ddb-emrys-classes",
+      "package": "world",
+      "path": "packs/ddb-emrys-classes.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\ashle\\AppData\\Local\\FoundryVTT\\Data\\worlds\\emrys\\packs\\ddb-emrys-classes.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Racial Traits",
+      "name": "ddb-emrys-racial-traits",
+      "package": "world",
+      "path": "packs/ddb-emrys-racial-traits.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\ashle\\AppData\\Local\\FoundryVTT\\Data\\worlds\\emrys\\packs\\ddb-emrys-racial-traits.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Feats",
+      "name": "ddb-emrys-feats",
+      "package": "world",
+      "path": "packs/ddb-emrys-feats.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\ashle\\AppData\\Local\\FoundryVTT\\Data\\worlds\\emrys\\packs\\ddb-emrys-feats.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Races",
+      "name": "ddb-emrys-races",
+      "package": "world",
+      "path": "packs/ddb-emrys-races.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\ashle\\AppData\\Local\\FoundryVTT\\Data\\worlds\\emrys\\packs\\ddb-emrys-races.db"
+    },
+    {
+      "entity": "Actor",
+      "label": "DDB Monsters",
+      "name": "ddb-emrys-monsters",
+      "package": "world",
+      "path": "packs/ddb-emrys-monsters.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\ashle\\AppData\\Local\\FoundryVTT\\Data\\worlds\\emrys\\packs\\ddb-emrys-monsters.db"
+    },
+    {
+      "entity": "Item",
+      "label": "DDB Override",
+      "name": "ddb-emrys-override",
+      "package": "world",
+      "path": "packs/ddb-emrys-override.db",
+      "system": "dnd5e",
+      "private": false,
+      "absPath": "C:\\Users\\ashle\\AppData\\Local\\FoundryVTT\\Data\\worlds\\emrys\\packs\\ddb-emrys-override.db"
+    },
+    {
+      "entity": "RollTable",
+      "label": "DDB Tables",
+      "name": "ddb-emrys-tables",
+      "package": "world",
+      "path": "packs/ddb-emrys-tables.db",
+      "system": "dnd5e",
+      "private": false
+    }
+  ],
+  "system": "dnd5e",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "coreVersion": "0.8.9",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "1.5.3"
+}
